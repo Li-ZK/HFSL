@@ -10,6 +10,9 @@ numpy = 1.19.2
 
 ## dataset
 You can download the hyperspectral datasets in mat format at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes, and move the files to `./datasets` folder.
+You can also download the hyperspectral datasets from the following link.
+Link: https://pan.baidu.com/s/1k8by5CiyabXRJdD_MVOL1w 
+Extract code: wjvv
 
 The mini-ImageNet data sets can be downloaded from the following link:
 Link: https://pan.baidu.com/s/1Mn1en9EhfFvE-i62YnbwhQ
@@ -42,4 +45,3 @@ Take HFSL method on the PU dataset as an example:
 3. Taking 5 labeled samples per class as an example, run `mini2hsi-SS-5-PU.py --nlabel 5 `. 
 
  * `--nlabel` denotes the number of labeled samples per class for the HSI data set.
-
