@@ -1,5 +1,6 @@
 ## Heterogeneous Few-shot Learning for Hyperspectral Image Classification
 This is a code demo for the paper "Heterogeneous Few-shot Learning for Hyperspectral Image Classification"
+Yan Wang, Ming Liu, Zhaokui Li, Qian Du, Yushi Chen, Fei Li, and Haibo Yang, Heterogeneous Few-shot Learning for Hyperspectral Image Classification, IEEE Geoscience and Remote Sensing Letters, in press.
 
 ## Requirements
 CUDA = 10.2
